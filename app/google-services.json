@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730183400197",
+    "project_id": "quickhelp-5df29",
+    "storage_bucket": "quickhelp-5df29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730183400197:android:77e389e7e389080d62956c",
+        "android_client_info": {
+          "package_name": "com.mobilejavaapp.quickhelp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3iJdmHYGS0Mkyci3Q5eLBE12KbZmI6ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
